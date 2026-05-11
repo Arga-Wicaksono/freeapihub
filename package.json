@@ -1,5 +1,5 @@
 {
-  "name": "api-hub",
+  "name": "free-api-hub",
   "version": "3.0.0",
   "description": "Curated collection of free public APIs with integrated testing",
   "type": "module",

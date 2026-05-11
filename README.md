@@ -6,13 +6,13 @@
 
 **The Developer's API Playground — Explore, test, and integrate 224 free public APIs directly from your browser.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-3ECF8E?style=for-the-badge&labelColor=0F0F0F)](https://api-hu.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3ECF8E?style=for-the-badge&labelColor=0F0F0F)](https://free-api-hub.netlify.app)
 [![GitHub Stars](https://img.shields.io/github/stars/Arga-Wicaksono/freeapihub?style=for-the-badge&label=Stars&labelColor=0F0F0F)](https://github.com/Arga-Wicaksono/freeapihub/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Arga-Wicaksono/freeapihub?style=for-the-badge&label=Forks&labelColor=0F0F0F)](https://github.com/Arga-Wicaksono/freeapihub/network/members)
 [![License: MIT](https://img.shields.io/github/license/Arga-Wicaksono/freeapihub?style=for-the-badge&label=MIT&labelColor=0F0F0F)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs_Welcome-3ECF8E?style=for-the-badge&labelColor=0F0F0F)](https://github.com/Arga-Wicaksono/freeapihub/pulls)
 
-[**Try it live**](https://api-hu.netlify.app) · [**Request an API**](https://github.com/Arga-Wicaksono/freeapihub/issues/new?labels=enhancement) · [**Report a Bug**](https://github.com/Arga-Wicaksono/freeapihub/issues/new)
+[**Try it live**](https://free-api-hub.netlify.app) · [**Request an API**](https://github.com/Arga-Wicaksono/freeapihub/issues/new?labels=enhancement) · [**Report a Bug**](https://github.com/Arga-Wicaksono/freeapihub/issues/new)
 
 <img src="https://raw.githubusercontent.com/Arga-Wicaksono/freeapihub/main/public/og-image.png" width="600" alt="API Hub Screenshot">
 
@@ -50,7 +50,7 @@ Every API in the catalog is verified: active endpoints, CORS-friendly, no authen
 
 ### Live Demo
 
-Visit **[api-hu.netlify.app](https://api-hu.netlify.app)** — zero installation, start testing APIs immediately.
+Visit **[free-api-hub.netlify.app](https://free-api-hub.netlify.app)** — zero installation, start testing APIs immediately.
 
 ### Local Development
 
@@ -83,7 +83,7 @@ Use the built-in AI Assistant tab to discover APIs using natural language:
 ### Static JSON Endpoint
 
 ```bash
-curl https://api-hu.netlify.app/apis.json
+curl https://free-api-hub.netlify.app/apis.json
 ```
 
 ```json

@@ -398,7 +398,7 @@ function App() {
             <a className="btn" href="https://www.producthunt.com/posts/api-hub" target="_blank" rel="noreferrer" aria-label="Product Hunt">
               PH
             </a>
-            <a className="btn" href="https://github.com/Arga-Wicaksono/api-hub" target="_blank" rel="noreferrer" aria-label="GitHub repository">
+            <a className="btn" href="https://github.com/Arga-Wicaksono/freeapihub" target="_blank" rel="noreferrer" aria-label="GitHub repository">
               GitHub
             </a>
           </div>
@@ -755,8 +755,8 @@ function App() {
           </div>
           <div className="footer-links">
             <button className="footer-link-btn" onClick={() => setShowSubmit(true)}>Submit API</button>
-            <a href="https://github.com/Arga-Wicaksono/api-hub" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://github.com/Arga-Wicaksono/api-hub/issues" target="_blank" rel="noreferrer">Report Bug</a>
+            <a href="https://github.com/Arga-Wicaksono/freeapihub" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Arga-Wicaksono/freeapihub/issues" target="_blank" rel="noreferrer">Report Bug</a>
           </div>
         </div>
       </footer>
@@ -948,7 +948,7 @@ function SubmitForm({ onClose, onToast, submitRef }: { onClose: () => void; onTo
       `**Icon:** ${form.icon}\n\n` +
       `*Submitted via API Hub submit form*`
     )
-    const issueUrl = `https://github.com/Arga-Wicaksono/api-hub/issues/new?title=${title}&body=${body}&labels=enhancement`
+    const issueUrl = `https://github.com/Arga-Wicaksono/freeapihub/issues/new?title=${title}&body=${body}&labels=enhancement`
 
     window.open(issueUrl, '_blank', 'noopener,noreferrer')
     onToast('Opening GitHub issue...')

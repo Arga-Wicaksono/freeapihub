@@ -1,4 +1,4 @@
-const CACHE_NAME = 'api-hub-v4'
+const CACHE_NAME = 'free-api-hub-v5'
 const STATIC_ASSETS = [
   '/',
   '/index.html',

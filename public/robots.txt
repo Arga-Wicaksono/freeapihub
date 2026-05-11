@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://api-hu.netlify.app/sitemap.xml
+Sitemap: https://free-api-hub.netlify.app/sitemap.xml
