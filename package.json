@@ -1,0 +1,23 @@
+{
+  "name": "api-hub",
+  "version": "3.0.0",
+  "description": "Curated collection of free public APIs with integrated testing",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generate-apis-json.js && tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "sharp": "^0.34.5",
+    "typescript": "^5.5.3",
+    "vite": "^8.0.11"
+  }
+}
