@@ -206,6 +206,20 @@ freeapihub/
 └── LICENSE
 ```
 
+## System Design
+
+### High-Level Architecture
+
+<img src="https://raw.githubusercontent.com/Arga-Wicaksono/freeapihub/main/high-level.svg" alt="High-Level Architecture" width="100%">
+
+### Component Architecture
+
+<img src="https://raw.githubusercontent.com/Arga-Wicaksono/freeapihub/main/components.svg" alt="Component Architecture" width="100%">
+
+### API Request Flow
+
+<img src="https://raw.githubusercontent.com/Arga-Wicaksono/freeapihub/main/sequence.svg" alt="API Request Flow Sequence Diagram" width="100%">
+
 ## Keyboard Shortcuts
 
 | Key | Action |
